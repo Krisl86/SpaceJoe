@@ -1,0 +1,10 @@
+255
+50
+Cool laser
+Warning:
+the actual projectiles are not cool
+but hot
+10
+20
+1.75
+SLOW
